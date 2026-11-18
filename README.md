@@ -70,18 +70,18 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=grnzaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=grnza&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=grnzaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="46.5%" />
-  <img src="https://streak-stats.demolab.com/?user=grnzaa&theme=dark&hide_border=true" width="51.2%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=grnza&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="46.5%" />
+  <img src="https://streak-stats.demolab.com/?user=grnza&theme=dark&hide_border=true" width="51.2%" />
 </div>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grnzaa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="none"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=grnza&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="none"/>
 </p>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
@@ -104,5 +104,5 @@
 
 <h3 align="center">🐍 My Contributions</h3>
 <p align="center">
-  <img src="https://github.com/grnzaa/grnzaa/blob/output/github-snake-dark.svg"
+  <img src="https://github.com/grnza/grnza/blob/output/github-snake-dark.svg"
 </p>
